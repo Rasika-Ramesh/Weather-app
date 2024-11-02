@@ -10,6 +10,8 @@ This is a simple and responsive weather application built using HTML, CSS, and J
 
 ## Screenshots
 ![Screenshot1](screenshots/weather-app-ss1.png)
+![Screenshot1](screenshots/weather-app-ss2.png)
+![Screenshot1](screenshots/weather-app-ss3.png)
 
 ## Technologies Used:
 + HTML: Structure of the application.
