@@ -9,7 +9,7 @@ This is a simple and responsive weather application built using HTML, CSS, and J
 + Error Handling: Displays an error message if the city is not found.
 
 ## Screenshots
-
+[screenshots/weather app ss1.png]
 
 ## Technologies Used:
 + HTML: Structure of the application.
