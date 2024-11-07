@@ -1,17 +1,28 @@
 # Weather-app
 This is a simple and responsive weather application built using HTML, CSS, and JavaScript. The app allows users to search for current weather conditions in any city around the world. It fetches real-time weather data using an external API and displays information such as temperature, humidity, wind speed, and weather conditions with an icon.
 
+[Watch the Screen recording](https://drive.google.com/file/d/1YHx9XjO-x9FpOorPOcCjQ7_muMD3Msm9/view?usp=sharing)
+
+---
+
 ## Features:
 + City Search: Users can enter a city name to get the current weather.
 + Real-Time Data: The app fetches up-to-date weather data from an API.
 + Responsive Design: The layout is fully responsive and works well on different devices.
 + Dynamic Background icons: Background icon changes based on the weather conditions.
 + Error Handling: Displays an error message if the city is not found.
+  
+---
 
 ## Screenshots
+
+[Watch the Screen recording](https://drive.google.com/file/d/1YHx9XjO-x9FpOorPOcCjQ7_muMD3Msm9/view?usp=sharing)
+
 ![Screenshot1](screenshots/weather-app-ss1.png)
 ![Screenshot1](screenshots/weather-app-ss2.png)
 ![Screenshot1](screenshots/weather-app-ss3.png)
+
+---
 
 ## Technologies Used:
 + HTML: Structure of the application.
